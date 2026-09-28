@@ -236,4 +236,4 @@ This repository serves as the official landing page for PowerToys. The software 
 **Get the most recent version of PowerToys today!**
 
 ---
-**Last updated:** 2026-09-27 23:36:57 UTC
+**Last updated:** 2026-09-28 03:27:46 UTC
